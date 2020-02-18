@@ -1,1 +1,3 @@
 # nsa-python
+
+# sup emily?
